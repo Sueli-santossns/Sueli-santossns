@@ -1,7 +1,5 @@
 ##
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F748C8&background=34343400&center=falso&vCenter=falso&repeat=verdadeiro&random=falso&width=435&lines=Ol%C3%A1%2C+sou+Sueli+Santos;Desenvolvedora+Front-End;Estudo+Análise+e+Desenvolvimento+de+Sistemas;Sinta-se+%C3%A1+Vontade!)](https://git.io/typing-svg)
-  
-  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Honk&pause=1000&color=F72B75&center=falso&vCenter=falso&repeat=verdadeiro&random=falso&width=435&lines=Ol%C3%A1%2C+me+chamo+Sueli+Santos+...;Futura+desenvolvedora+Front-End+...;Estudante+de+An%C3%A1lise+e+Desenvol.+de+Sistemas;Sinta-se+%C3%A1+vontade!)](https://git.io/typing-svg)
 ##
 <h2>Habilidades:</h2>
 <div>
@@ -18,4 +16,4 @@
   <a href="https://www.instagram.com/suelisns0312/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 
-[![](https://visitcount.itsvg.in/api?id=Sueli-santossns&label=Profile%20Views&color=11&icon=0&pretty=false)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Sueli-santossns&label=Profile%20Views&color=5&icon=3&pretty=false)](https://visitcount.itsvg.in)
