@@ -1,5 +1,5 @@
 ##
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F748C8&background=34343400&center=falso&vCenter=falso&repeat=verdadeiro&random=falso&width=435&lines=Ol%C3%A1%2C+sou+Sueli+Santos;Desenvolvedora+Front-End;Estudo+Análise+e+Desenvilvimento+de+Sistemas;Sinta-se+%C3%A1+Vontade!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F748C8&background=34343400&center=falso&vCenter=falso&repeat=verdadeiro&random=falso&width=435&lines=Ol%C3%A1%2C+sou+Sueli+Santos;Desenvolvedora+Front-End;Estudo+Análise+e+Desenvolvimento+de+Sistemas;Sinta-se+%C3%A1+Vontade!)](https://git.io/typing-svg)
   
   
 ##
