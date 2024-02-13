@@ -2,7 +2,7 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Dancing+Script&pause=1000&color=981BF7&center=verdadeiro&vCenter=verdadeiro&repeat=verdadeiro&random=falso&width=435&lines=%F0%9F%91%8B+Ol%C3%A1%2C+me+chamo+Sueli+Santos+...;Dev+Front-End+em+forma%C3%A7%C3%A3o+...;Estudante+de+An%C3%A1lise+e+Desenvol.+de+Sistemas+...;Tentando+melhor+um+pouco+a+cada+dia+...;Que+bom+te+ver+por+aqui!+%F0%9F%98%8A+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Dancing+Script&pause=1000&color=981BF7&center=verdadeiro&vCenter=verdadeiro&repeat=verdadeiro&random=falso&width=435&lines=%F0%9F%91%8B+Ol%C3%A1%2C+me+chamo+Sueli+Santos+...;Dev+Front-End+em+forma%C3%A7%C3%A3o+...;Estudante+de+An%C3%A1lise+e+Desenvol.+de+Sistemas+...;Tentando+melhorar+um+pouco+a+cada+dia+...;Que+bom+te+ver+por+aqui!+%F0%9F%98%8A+)](https://git.io/typing-svg)
 
 ##
 <div align="center">
